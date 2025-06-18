@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Deepanshu Sehrawat </span>
             from <span className="purple"> Noida, India.</span>
             <br />
-            I am currently Summer Intern at <span className="purple">Celebal Technologies.</span>
+            I am currently joined <span className="purple">Celebal Technologies.</span>as Summer Intern 2025
             <br />
             I am pursuing <span className="purple"> B.Tech</span> in <span className="purple">Computer Science and Engineering</span> from <br/><span className="purple">Dr. A.P.J Abdul Kalam Technical University.</span>
             
