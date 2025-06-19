@@ -14,7 +14,6 @@ This site showcases my projects, skills, and contact information, serving as a c
 - 🧠 About section describing skills and background
 - 📄 Resume/CV download or preview
 - 📱 Responsive design for mobile and desktop
-- 🌙 Dark/light theme (if applicable)
 - 📬 Contact form or social media links
 
 ---
@@ -22,7 +21,7 @@ This site showcases my projects, skills, and contact information, serving as a c
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Framework**: React.js (if applicable)
+- **Framework**: React.js 
 - **Hosting**: [Vercel](https://vercel.com/)
 
 ---
