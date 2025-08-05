@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import TinDog from "../../Assets/Projects/TinDog.png"
 import Paste from "../../Assets/Projects/Paste.png"
-import Challenge from "../../Assets/Projects/Challenge.png"
+import CrypTalk from "../../Assets/Projects/CrypTalk.png"
 import DeployingSoon from "../../Assets/Projects/DeployingSoon.png"
 
 function Projects() {
@@ -21,12 +21,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Challenge}
+              imgPath={CrypTalk}
               isBlog={false}
-              title="Challenge-Tracker"
-              description="A gamified challenge system designed to push your coding boundaries by combining algorithmic problem-solving with new technologies, frameworks, and paradigms.."
-              ghLink="https://github.com/DeepanshuSehrawat/Challenge-Tracker1.git"
-              demoLink="https://challenge-tracker1.vercel.app/"
+              title="CrypTalk-Video Call & Chat App"
+              description="CrypTalk – Secure Video & Chat Application CrypTalk is a full-stack real-time video chat application that enables users to connect securely via video calls and messaging. It is built using modern web technologies with a focus on performance, scalability, and data security."
+              ghLink="https://github.com/DeepanshuSehrawat/CrypTalk-VideoCall-Chat-App"
+              demoLink="https://cryptalk-videocall-chat-app-frontend.onrender.com/"
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={Paste}
               isBlog={false}
               title="Paste-App"
-              description="A modern and minimal Paste App built using React, Redux, and Tailwind CSS. This app allows users to create, save, view, and share text/code snippets with a sleek and responsive UI.."
+              description="A modern and minimal Paste App built using React, Redux, and Tailwind CSS. This app allows users to create, save, view, and share text/code snippets with a sleek and responsive UI..                                                                                             "
               ghLink="https://github.com/DeepanshuSehrawat/Paste-App.git"
               demoLink="https://paste-app-two-flax.vercel.app/"
             />
@@ -46,7 +46,7 @@ function Projects() {
               imgPath={TinDog}
               isBlog={false}
               title="TinDog-Startup-Landing Page"
-              description="A full fledged webpage consisting of marvelous features with animated background by using HTML , CSS, BOOTSTRAP"
+              description="A full fledged webpage consisting of marvelous features with animated background by using HTML , CSS, BOOTSTRAP                                                                                                                                                                   "
               ghLink="https://github.com/DeepanshuSehrawat/Tindog-startup-landing-page-web-page-using-HTML-CSS-Bootstrap.git"
               demoLink="https://deepanshusehrawat.github.io/Tindog-startup-landing-page-web-page-using-HTML-CSS-Bootstrap/"              
             />
