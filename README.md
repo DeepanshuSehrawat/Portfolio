@@ -22,7 +22,7 @@ This site showcases my projects, skills, and contact information, serving as a c
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Framework**: React.js 
-- **Hosting**: [Vercel](https://vercel.com/)
+- **Hosting**:Vercel
 
 ---
 
@@ -47,9 +47,10 @@ src/
 ├── App.js          # Main app entry
 ├── index.js        # React DOM entry point
 ```
-📧 Contact
+### 📧 Contact
 Want to work together or just say hello?
 
 📮deepanshusehrawat008@gmail.com
 
 🔗 https://www.linkedin.com/in/deepanshu-sehrawat-b79629249/
+### Made with 🔥 by Deepanshu Sehrawat
