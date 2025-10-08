@@ -6,7 +6,7 @@ import TinDog from "../../Assets/Projects/TinDog.png"
 import Paste from "../../Assets/Projects/Paste.png"
 import CrypTalk from "../../Assets/Projects/CrypTalk.png"
 import DeployingSoon from "../../Assets/Projects/DeployingSoon.png"
-
+import DevGPT from "../../Assets/Projects/DevGPT.png"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -32,6 +32,16 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={DevGPT}
+              isBlog={false}
+              title="DevGPT"
+              description="DevGPT is an intelligent code reviewer that analyzes your code to find bugs, suggest improvements, and provide corrected code snippets. Powered by the Gemini API, it helps developers enhance code quality and learn best practices."
+              ghLink="https://github.com/DeepanshuSehrawat/DevGPT"
+              demoLink="https://dev-gpt-seven.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={Paste}
               isBlog={false}
               title="Paste-App"
@@ -49,17 +59,6 @@ function Projects() {
               description="A full fledged webpage consisting of marvelous features with animated background by using HTML , CSS, BOOTSTRAP                                                                                                                                                                   "
               ghLink="https://github.com/DeepanshuSehrawat/Tindog-startup-landing-page-web-page-using-HTML-CSS-Bootstrap.git"
               demoLink="https://deepanshusehrawat.github.io/Tindog-startup-landing-page-web-page-using-HTML-CSS-Bootstrap/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={DeployingSoon}
-              isBlog={false}
-              title="Gen-Ai"
-              description=""
-              ghLink=""
-              demoLink=""
             />
           </Col>
 
